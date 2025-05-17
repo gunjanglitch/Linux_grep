@@ -1,0 +1,10 @@
+INFO: Training Random Forest classifier on gene expression data.
+INFO: Splitting data into training and testing sets (80/20).
+WARNING: Imbalanced dataset detected, applying SMOTE.
+INFO: Fitting model on 1000 samples with 3000 features.
+INFO: Model accuracy on test set: 89.7%
+INFO: ROC-AUC score: 0.92
+DEBUG: Saving model to models/random_forest_model.pkl
+INFO: Feature importance calculated for top 20 genes.
+ERROR: Missing values found in feature matrix.
+INFO: Retraining model after imputation.

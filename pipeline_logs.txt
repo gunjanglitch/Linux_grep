@@ -1,0 +1,14 @@
+INFO: Running FastQC on sample SRR123456.
+WARNING: Low quality reads detected in sample SRR123457.
+INFO: Trimming adapters using TrimGalore.
+INFO: Mapping reads using HISAT2 to hg38 reference genome.
+ERROR: STAR index not found for mouse genome.
+INFO: Counting reads with featureCounts.
+WARNING: More than 20% of reads were discarded after trimming.
+INFO: Differential expression analysis with DESeq2 completed.
+INFO: Found 1345 differentially expressed genes.
+INFO: GO enrichment identified 27 significant pathways.
+DEBUG: Processing single-cell RNA-seq data using Kallisto.
+INFO: Merged gene expression matrices for batch correction.
+INFO: PCA and UMAP plots generated.
+INFO: Marker genes identified for 5 clusters.
